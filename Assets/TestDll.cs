@@ -12,5 +12,8 @@ public class TestDll : MonoBehaviour
         Debug.Log(dc.Add(1,2));
     }
 
-  
+  void Test()
+    {
+        Debug.Log("TestGit");
+    }
 }
